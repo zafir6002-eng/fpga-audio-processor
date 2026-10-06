@@ -1,0 +1,11 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/.Imperial/summer_project/audio_processor/audio_processor.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v,1790010616,verilog,,C:/.Imperial/summer_project/audio_processor/audio_processor.srcs/sources_1/new/dsp.v,,clk_wiz_0,,,../../../../audio_processor.ip_user_files/ipstatic,,,,,
+C:/.Imperial/summer_project/audio_processor/audio_processor.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,1790010616,verilog,,C:/.Imperial/summer_project/audio_processor/audio_processor.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v,,clk_wiz_0_clk_wiz,,,../../../../audio_processor.ip_user_files/ipstatic,,,,,
+C:/.Imperial/summer_project/audio_processor/audio_processor.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/.Imperial/summer_project/audio_processor/audio_processor.srcs/sim_1/new/testbench.v,1790335512,verilog,,,,testbench,,,../../../../audio_processor.ip_user_files/ipstatic,,,,,
+C:/.Imperial/summer_project/audio_processor/audio_processor.srcs/sources_1/new/dsp.v,1790335829,verilog,,C:/.Imperial/summer_project/audio_processor/audio_processor.srcs/sources_1/new/i2s_architecture.v,,dsp,,,../../../../audio_processor.ip_user_files/ipstatic,,,,,
+C:/.Imperial/summer_project/audio_processor/audio_processor.srcs/sources_1/new/i2s_architecture.v,1787611456,verilog,,C:/.Imperial/summer_project/audio_processor/audio_processor.srcs/sources_1/new/top_sheet.v,,i2s_architecture,,,../../../../audio_processor.ip_user_files/ipstatic,,,,,
+C:/.Imperial/summer_project/audio_processor/audio_processor.srcs/sources_1/new/top_sheet.v,1790335827,verilog,,C:/.Imperial/summer_project/audio_processor/audio_processor.srcs/sim_1/new/testbench.v,,top_sheet,,,../../../../audio_processor.ip_user_files/ipstatic,,,,,
