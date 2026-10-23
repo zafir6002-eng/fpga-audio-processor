@@ -43,7 +43,7 @@ module dsp(
                 3'b000: audio_out <= audio_in;                  //same
                 3'b001: audio_out <= audio_in >>> vol_shift;    //decrease volume
                 3'b010: begin 
-                    audio_out <= audio_in <<< vol_shift;    //increase volume --- fix this later see this result first
+                    audio_out <= audio_in <<< vol_shift;    //increase volume
                     if(audio_out > max_vol) audio_out <= max_vol;
                     else if(audio_out < min_vol) audio_out <= min_vol;
                     end
